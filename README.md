@@ -5,6 +5,7 @@ Apart from interesting real world applications of bike sharing systems, the char
 
 ### the result
 predict the rental of bikes hourly and daily using 
-#### Using 2 Model
+
+#### The Designed and Implemented Models
 1. Aritifical Neural Network
 2. Linear Regression
